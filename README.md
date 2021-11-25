@@ -157,9 +157,122 @@ SECCIÓN 5–10 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/94079321/143456276-66188ed6-106d-465e-96e8-a4fc1b67ab87.png)
 
+
+
 UNIDAD 6
 
+SECCIÓN 6–1 Resistores en paralelo
 
+1) Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería
+
+![image](https://user-images.githubusercontent.com/94079321/143463301-ba117f9e-4ad4-49ad-95da-93299368adf3.png)
+
+3) Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
+
+![image](https://user-images.githubusercontent.com/94079321/143463352-8aec3a1e-39c6-4dd3-82ef-f9a9bb55fc89.png)
+
+SECCIÓN 6–2 Voltaje en un circuito en paralelo
+
+5) El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+
+![image](https://user-images.githubusercontent.com/94079321/143463391-a318381e-0966-4d05-b923-8b872b3bfbb2.png)
+
+7) ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?
+
+![image](https://user-images.githubusercontent.com/94079321/143463435-b5906817-6e2d-499e-bca9-0483a0ff1810.png)
+
+SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
+
+9) Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+
+11) En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
+
+![image](https://user-images.githubusercontent.com/94079321/143466123-cbdc09c7-d8ac-4bfb-9f63-e7ebc6b63d0e.png)
+
+13) . La resistencia total de un circuito en paralelo es de 25 Ω. ¿Cuál es la corriente a través de un resistor de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?
+
+15) Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
+
+         (a) 560 Ω y 1000 Ω
+         (b) 47 Ω y 56 Ω
+         (c) 1.5 kΩ, 2.2 kΩ y 10 kΩ
+         (d) 1 MΩ, 470 kΩ, 1 kΩ y 2.7 MΩ
+
+17) ¿Cuál es la resistencia total de doce resistores de 6.8 kΩ dispuestos en paralelo?
+
+19) Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo.  Encuentre la resistencia total de todo el circuito en paralelo.
+
+21) ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
+
+![image](https://user-images.githubusercontent.com/94079321/143466191-e83b6b42-34b9-4770-88cb-bbe988eb934f.png)
+
+         (a) SW1 y SW2 abiertos
+         (b) SW1 cerrado, SW2 abierto
+         (c) SW1 abierto, SW2 cerrado
+         (d) SW1 y SW2 cerrados
+         
+SECCIÓN 6–5 Aplicación de la ley de Ohm
+
+23) Tres resistores de 33 Ω están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?
+
+25) Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 kΩ, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?
+
+27) ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ω mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?
+
+![image](https://user-images.githubusercontent.com/94079321/143466249-973d6cda-5a70-404b-8af2-a1399e5b4f75.png)
+
+29) Encuentre los valores de las cantidades no especificadas en la figura 6-77.
+
+![image](https://user-images.githubusercontent.com/94079321/143466295-8f9a0e91-ed12-45d9-8706-b957dd71eb07.png)
+
+SECCIÓN 6–6 Fuentes de corriente en paralelo
+
+31) Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79.
+
+![image](https://user-images.githubusercontent.com/94079321/143468862-cada4a45-ea11-4caa-a22b-b0a892d2ce0b.png)
+
+SECCIÓN 6–7 Divisores de corriente
+
+33) Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.
+
+![image](https://user-images.githubusercontent.com/94079321/143468909-e3935043-6364-4355-b8e5-9f01e7cb808b.png)
+
+35) Determine todos los valores de resistor en la figura 6-83. RT=773 Ω.
+
+![image](https://user-images.githubusercontent.com/94079321/143468993-29c2169c-eb0c-4a4a-a90a-3fbccd1ca66c.png)
+
+37) En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kΩ de escala completa entre la derivación para realizar la medición
+
+         (a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en          una aplicación de medición de 50 A?
+         (b) ¿Cuánta corriente circula por el medidor?
+
+SECCIÓN 6–8 Potencia en circuitos en paralelo
+
+39) Determine la potencia total en cada uno de los circuitos de la figura 6-81.
+
+![image](https://user-images.githubusercontent.com/94079321/143468926-364432b9-8e47-40a5-8090-0616a5293d8a.png)
+
+41) Encuentre los valores de las cantidades no especificadas en la figura 6-84
+
+![image](https://user-images.githubusercontent.com/94079321/143469024-addcb843-b29c-45dd-aaf4-b60858350a0f.png)
+
+SECCIÓN 6–10 Localización de fallas
+
+43) Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
+
+45) ¿Qué está mal con el circuito de la figura 6-86?
+
+![image](https://user-images.githubusercontent.com/94079321/143469060-577b8aee-b544-474c-bc3e-b892662a11e9.png)
+
+47) Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso. 
+
+![image](https://user-images.githubusercontent.com/94079321/143469099-0995769f-dba3-4941-8b7c-1eb0c260cdd2.png)
+
+49) Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
+
+![image](https://user-images.githubusercontent.com/94079321/143469171-be8a4f38-c0f3-4761-ac27-dbe8c342c989.png)
+
+            (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
 
 61. Conclusiones
 
