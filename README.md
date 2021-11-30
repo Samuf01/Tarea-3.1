@@ -377,6 +377,21 @@ SECCIÓN 6–10 Localización de fallas
 
 61. Conclusiones
 
+Si todas las ramas de un circuito en paralelo tienen igual resistencia, las corrientes que pasan por todas
+las ramas son iguales.
+
+Los resistores en paralelo se conectan entre dos puntos (nodos).
+
+Una combinación en paralelo tiene más de una trayectoria para la corriente.
+
+Si una de las ramas de un circuito en paralelo se abre, la resistencia total se incrementa y, por consiguiente, la corriente total disminuye.
+
+La corriente es la misma en todos los puntos de un circuito en serie
+
+La resistencia total en serie es la suma de todos los resistores presentes en el circuito en serie.
+
+Un divisor de voltaje recibe ese nombre porque la caída de voltaje a través de cualquier resistor dispuesto en el circuito en serie se reduce, en relación con el voltaje total, en una cantidad que es proporcional a dicho valor de resistencia con respecto a la resistencia total.
+
 5. Bibliografía
 
 -Unsa.edu.ar. 2021. [online] Available at: http://www.unsa.edu.ar/srmrf/web/_Visitante/articulacion/MePreparo2011/3_NotacionCientifica.pdf [Accessed 1 June 2021]. Yann Picand, D., 2021. Conversión de unidades : definición de Conversión de unidades y sinónimos de Conversión de unidades (español). [online] Diccionario.sensagent.com.
