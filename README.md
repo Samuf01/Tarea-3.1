@@ -4,11 +4,15 @@
 
    1.1.	Objetivo General 
 
-Poder identificar un circuito resistivo en serie y determinar la corriente a través de un circuito en serie ademas poder determinar la resistencia total en serie
+Poder identificar un circuito resistivo en serie y determinar la corriente a través de un circuito en serie ademas poder determinar la resistencia total en serie y paralelo.
 
    1.2. 	Objetivo Especifico
    
-Aplicar la ley de Ohm a circuitos en serie
+- Aplicar la ley de Ohm a circuitos en serie
+
+- Identificar un circuito resistivo en serie
+
+- Determinar la resistencia total en serie
 
 2. Marco Teórico 
 
@@ -302,6 +306,18 @@ SECCIÓN 6–10 Localización de fallas
 ![image](https://user-images.githubusercontent.com/94079321/144071334-2c6e7969-53b4-4156-b9ff-f1afff74cda0.png)
 
 61. Conclusiones
+
+La corriente es la misma en todos los puntos de un circuito en serie
+
+La resistencia total en serie es la suma de todos los resistores presentes en el circuito en serie.
+
+Si todos los resistores presentes en un circuito en serie son de igual valor, la resistencia total es la cantidad de resistores multiplicada por el valor de resistencia de un resistor
+
+Los resistores en paralelo se conectan entre dos puntos (nodos)
+
+Una combinación en paralelo tiene más de una trayectoria para la corriente
+
+Un circuito en paralelo es un divisor de corriente, llamado así porque la corriente total que entra a la unión de ramas en paralelo se divide en cada una de las ramas.
 
 5. Bibliografía
 
