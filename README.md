@@ -391,6 +391,8 @@ SECCIÓN 6–10 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/94079321/143469099-0995769f-dba3-4941-8b7c-1eb0c260cdd2.png)
 
+![image](https://user-images.githubusercontent.com/94079321/144111388-4fdb81ce-c421-4877-846b-d5653d9cfd56.png)
+
 49) Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 
 ![image](https://user-images.githubusercontent.com/94079321/143469171-be8a4f38-c0f3-4761-ac27-dbe8c342c989.png)
@@ -399,6 +401,7 @@ SECCIÓN 6–10 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/94079321/144110437-bbc0dbec-1050-45c1-ba18-3dce3f0b0b8d.png)
 
+![image](https://user-images.githubusercontent.com/94079321/144111421-974e6c93-c2e5-4702-9502-8a16ad3fa04a.png)
 
 61. Conclusiones
 
