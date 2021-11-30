@@ -381,6 +381,7 @@ SECCIÓN 6–10 Localización de fallas
 
 6. Video
 
+https://youtu.be/uDeVqNhE0SU
 
 
 
