@@ -257,33 +257,49 @@ SECCIÓN 6–7 Divisores de corriente
          (a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A?
          (b) ¿Cuánta corriente circula por el medidor?
 
+
+![image](https://user-images.githubusercontent.com/94079321/144071064-d1b9cd9a-1ec8-4cf6-bd97-5935bdb277c5.png)
+
 SECCIÓN 6–8 Potencia en circuitos en paralelo
 
 39) Determine la potencia total en cada uno de los circuitos de la figura 6-81.
 
 ![image](https://user-images.githubusercontent.com/94079321/143468926-364432b9-8e47-40a5-8090-0616a5293d8a.png)
 
+![image](https://user-images.githubusercontent.com/94079321/144071103-35f1ee02-cdd2-48f9-af4c-908062a56a2e.png)
+
 41) Encuentre los valores de las cantidades no especificadas en la figura 6-84
 
 ![image](https://user-images.githubusercontent.com/94079321/143469024-addcb843-b29c-45dd-aaf4-b60858350a0f.png)
+
+![image](https://user-images.githubusercontent.com/94079321/144071160-8ad15479-5d47-4574-81b3-35ec29e15871.png)
 
 SECCIÓN 6–10 Localización de fallas
 
 43) Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
 
+![image](https://user-images.githubusercontent.com/94079321/144071213-49cf3678-69ce-4735-a228-12cd8f112526.png)
+
 45) ¿Qué está mal con el circuito de la figura 6-86?
 
 ![image](https://user-images.githubusercontent.com/94079321/143469060-577b8aee-b544-474c-bc3e-b892662a11e9.png)
 
+![image](https://user-images.githubusercontent.com/94079321/144071253-09da56b0-fde4-407a-8672-3952d3735a2a.png)
+
 47) Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso. 
 
 ![image](https://user-images.githubusercontent.com/94079321/143469099-0995769f-dba3-4941-8b7c-1eb0c260cdd2.png)
+
+![image](https://user-images.githubusercontent.com/94079321/144071289-d1a60848-0ac4-4408-a45a-a16eaf45df30.png)
 
 49) Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 
 ![image](https://user-images.githubusercontent.com/94079321/143469171-be8a4f38-c0f3-4761-ac27-dbe8c342c989.png)
 
             (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
+
+
+![image](https://user-images.githubusercontent.com/94079321/144071334-2c6e7969-53b4-4156-b9ff-f1afff74cda0.png)
 
 61. Conclusiones
 
