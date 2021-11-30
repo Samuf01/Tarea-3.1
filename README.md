@@ -121,11 +121,15 @@ SECCIÓN 5–7 Divisores de voltaje
 
 45) Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del (+-)1% con una fuente de 1 a 120 V. El voltaje máximo debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
 
+![image](https://user-images.githubusercontent.com/94079321/143968769-52066197-fbbb-493e-8dbc-9445a8a5e654.png)
+
 SECCIÓN 5–8 Potencia en circuitos en serie
 
 47) ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.
 
 ![image](https://user-images.githubusercontent.com/94079321/143448139-be40af06-99b5-4db1-bafb-1b56f5f8c1c5.png)
+
+![image](https://user-images.githubusercontent.com/94079321/143968792-fa276a40-3d8a-45ee-9d07-41046d3142d7.png)
 
 49) Encuentre RT en la figura 5-89
 
@@ -137,9 +141,13 @@ SECCIÓN 5–9 Mediciones de voltaje
 
 ![image](https://user-images.githubusercontent.com/94079321/143455691-9e646aaa-1836-4d41-b28e-1890621ffa65.png)
 
+![image](https://user-images.githubusercontent.com/94079321/143969424-22ef8880-7e1e-47cf-9aac-84179efe06be.png)
+
 53) En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
 
 ![image](https://user-images.githubusercontent.com/94079321/143455720-898021d6-d97c-4002-a56f-d0dc3b09e152.png)
+
+![image](https://user-images.githubusercontent.com/94079321/143969448-e7b806f7-4704-44b0-bf6b-1220fefb4deb.png)
 
 SECCIÓN 5–10 Localización de fallas
 
@@ -147,15 +155,22 @@ SECCIÓN 5–10 Localización de fallas
 
 ![image](https://user-images.githubusercontent.com/94079321/143455763-998964b6-7ccb-4543-b1b7-606d23c12b0d.png)
 
+![image](https://user-images.githubusercontent.com/94079321/143969472-9d550b23-1b42-404b-a124-6cfd9f22bb04.png)
+
 57) La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
 
 ![image](https://user-images.githubusercontent.com/94079321/143456189-9e9cdc99-2c16-4d13-8ad6-d97a16910472.png)
 
 ![image](https://user-images.githubusercontent.com/94079321/143456233-3b9cb9c2-eb80-43b6-a60b-ee5b10af5bd8.png)
 
+La tablz no contiene ninguna clase de fallo o problema
+
 59) Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo
 
 ![image](https://user-images.githubusercontent.com/94079321/143456276-66188ed6-106d-465e-96e8-a4fc1b67ab87.png)
+
+![image](https://user-images.githubusercontent.com/94079321/143969512-8d2c7d93-de2c-41a2-867f-bff9c75a62cf.png)
+
 
 
 
