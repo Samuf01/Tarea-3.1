@@ -305,6 +305,13 @@ SECCIÓN 6–10 Localización de fallas
 
 5. Bibliografía
 
+-Unsa.edu.ar. 2021. [online] Available at: http://www.unsa.edu.ar/srmrf/web/_Visitante/articulacion/MePreparo2011/3_NotacionCientifica.pdf [Accessed 1 June 2021]. Yann Picand, D., 2021. Conversión de unidades : definición de Conversión de unidades y sinónimos de Conversión de unidades (español). [online] Diccionario.sensagent.com.
+-Available at: http://diccionario.sensagent.com/Conversi%C3%B3n%20de%20unidades/es-es/ [Accessed 03 Noviembre 2021].
+
+-2021. [online] Available at: https://es.khanacademy.org/science/electrical-engineering/int [Accessed 03 Noviembre 2021].
+
+-Tirado, A. and perfil, V., 2021. conversión de unidades. [online] Aprendefisika.blogspot.com. Available at: http://aprendefisika.blogspot.com/p/conversion-de-unidades.html [Accessed 05 Noviembre 2021].
+
 6. Video
 
 
