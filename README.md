@@ -338,14 +338,23 @@ SECCIÓN 6–7 Divisores de corriente
 
 ![image](https://user-images.githubusercontent.com/94079321/143468909-e3935043-6364-4355-b8e5-9f01e7cb808b.png)
 
+![image](https://user-images.githubusercontent.com/94079321/144109050-1740218d-d92f-40c3-aeec-1797d73bb26f.png)
+
+
 35) Determine todos los valores de resistor en la figura 6-83. RT=773 Ω.
 
 ![image](https://user-images.githubusercontent.com/94079321/143468993-29c2169c-eb0c-4a4a-a90a-3fbccd1ca66c.png)
+
+![image](https://user-images.githubusercontent.com/94079321/144109123-04610fa5-4705-473d-92b9-3165856e97bb.png)
+
 
 37) En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kΩ de escala completa entre la derivación para realizar la medición
 
          (a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A?
          (b) ¿Cuánta corriente circula por el medidor?
+
+![image](https://user-images.githubusercontent.com/94079321/144109172-61b27928-e1bc-40bb-8b9c-863bd14f0a42.png)
+
 
 SECCIÓN 6–8 Potencia en circuitos en paralelo
 
@@ -353,17 +362,30 @@ SECCIÓN 6–8 Potencia en circuitos en paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/143468926-364432b9-8e47-40a5-8090-0616a5293d8a.png)
 
+![image](https://user-images.githubusercontent.com/94079321/144109459-5a8a5d52-cf1b-4173-b5fe-97ef44855a94.png)
+
+
 41) Encuentre los valores de las cantidades no especificadas en la figura 6-84
 
 ![image](https://user-images.githubusercontent.com/94079321/143469024-addcb843-b29c-45dd-aaf4-b60858350a0f.png)
+
+![image](https://user-images.githubusercontent.com/94079321/144109495-b2e01ce3-fef3-45c0-b4e3-a29cc8a1fc16.png)
+
 
 SECCIÓN 6–10 Localización de fallas
 
 43) Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
 
+![image](https://user-images.githubusercontent.com/94079321/144109535-399fa7bc-782c-4c35-b6e7-c69307c890bf.png)
+
+
 45) ¿Qué está mal con el circuito de la figura 6-86?
 
 ![image](https://user-images.githubusercontent.com/94079321/143469060-577b8aee-b544-474c-bc3e-b892662a11e9.png)
+
+![image](https://user-images.githubusercontent.com/94079321/144110328-1a02e8a5-b3ae-4b0d-9bed-ef1c5f76473f.png)
+
+
 
 47) Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso. 
 
@@ -374,6 +396,9 @@ SECCIÓN 6–10 Localización de fallas
 ![image](https://user-images.githubusercontent.com/94079321/143469171-be8a4f38-c0f3-4761-ac27-dbe8c342c989.png)
 
             (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
+
+![image](https://user-images.githubusercontent.com/94079321/144110437-bbc0dbec-1050-45c1-ba18-3dce3f0b0b8d.png)
+
 
 61. Conclusiones
 
