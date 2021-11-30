@@ -353,6 +353,7 @@ Un circuito en paralelo es un divisor de corriente, llamado así porque la corri
 
 6. Video
 
+https://youtu.be/uDeVqNhE0SU
 
 
 
