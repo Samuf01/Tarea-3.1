@@ -254,7 +254,7 @@ SECCIÓN 6–7 Divisores de corriente
 
 37) En el mercado están disponibles resistores en derivación especialmente diseñados para detectar caídas de voltaje de 50 mV en aplicaciones de medición de corrientes altas. Se conecta un voltímetro de 50 mV, 10 kΩ de escala completa entre la derivación para realizar la medición
 
-         (a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en          una aplicación de medición de 50 A?
+         (a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A?
          (b) ¿Cuánta corriente circula por el medidor?
 
 SECCIÓN 6–8 Potencia en circuitos en paralelo
