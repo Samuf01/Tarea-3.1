@@ -131,19 +131,15 @@ SECCIÓN 5–8 Potencia en circuitos en serie
 
 ![image](https://user-images.githubusercontent.com/94079321/143968792-fa276a40-3d8a-45ee-9d07-41046d3142d7.png)
 
-49) Encuentre RT en la figura 5-89
-
-![image](https://user-images.githubusercontent.com/94079321/143455657-d2e6be06-4ece-440c-92d0-edbec852c5c6.png)
-
 SECCIÓN 5–9 Mediciones de voltaje
 
-51) En la figura 5-90, determine el voltaje en cada punto con respecto a tierra
+49) En la figura 5-90, determine el voltaje en cada punto con respecto a tierra
 
 ![image](https://user-images.githubusercontent.com/94079321/143455691-9e646aaa-1836-4d41-b28e-1890621ffa65.png)
 
 ![image](https://user-images.githubusercontent.com/94079321/143969424-22ef8880-7e1e-47cf-9aac-84179efe06be.png)
 
-53) En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
+51) En la figura 5-91, determine el voltaje en cada punto con respecto a tierra.
 
 ![image](https://user-images.githubusercontent.com/94079321/143455720-898021d6-d97c-4002-a56f-d0dc3b09e152.png)
 
@@ -151,13 +147,13 @@ SECCIÓN 5–9 Mediciones de voltaje
 
 SECCIÓN 5–10 Localización de fallas
 
-55) Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.
+53) Observe los medidores de la figura 5-92 y determine los tipos de fallas ocurridos en los circuitos y qué componentes fallaron.
 
 ![image](https://user-images.githubusercontent.com/94079321/143455763-998964b6-7ccb-4543-b1b7-606d23c12b0d.png)
 
 ![image](https://user-images.githubusercontent.com/94079321/143969472-9d550b23-1b42-404b-a124-6cfd9f22bb04.png)
 
-57) La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
+55) La tabla 5-1 muestra los resultados de mediciones de resistencia efectuadas en la tarjeta de circuito impreso que aparece en la figura 5-93. ¿Son correctos estos resultados? Si no, identifique los posibles problemas.
 
 ![image](https://user-images.githubusercontent.com/94079321/143456189-9e9cdc99-2c16-4d13-8ad6-d97a16910472.png)
 
@@ -165,7 +161,7 @@ SECCIÓN 5–10 Localización de fallas
 
 La tablz no contiene ninguna clase de fallo o problema
 
-59) Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo
+57) Al examinar la tarjeta de circuito impreso de la figura 5-93, se miden 17.83 kΩ entre las puntas 1 y 2. Asimismo, 13.6 kΩ entre las puntas 2 y 4. ¿Indica esto un problema en la tarjeta de circuito impreso? De ser así, identifíquelo
 
 ![image](https://user-images.githubusercontent.com/94079321/143456276-66188ed6-106d-465e-96e8-a4fc1b67ab87.png)
 
