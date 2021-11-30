@@ -4,17 +4,19 @@
 
    1.1.	Objetivo General 
 
-Poder identificar un circuito resistivo en serie y determinar la corriente a través de un circuito en serie ademas poder determinar la resistencia total en serie y paralelo.
+Poder identificar un circuito resistivo en serie y determinar la corriente a través de un circuito en serie ademas poder determinar la resistencia total en serie
 
    1.2. 	Objetivo Especifico
    
-- Aplicar la ley de Ohm a circuitos en serie
-
-- Identificar un circuito resistivo en serie
-
-- Determinar la resistencia total en serie
+Aplicar la ley de Ohm a circuitos en serie
 
 2. Marco Teórico 
+
+![image](https://user-images.githubusercontent.com/94079321/144066244-509aef8b-f049-4794-821a-782a0693d653.png)
+
+
+![image](https://user-images.githubusercontent.com/94079321/144076564-7f2c47ce-36ed-4270-9dc8-7b724c10ffb4.png)
+
 
 3. Resolución de Ejercicios
 
@@ -26,19 +28,13 @@ SECCIÓN 5–1 Resistores en serie
 
 ![image](https://user-images.githubusercontent.com/94079321/143445390-2832c171-687f-41c4-9ba8-fc835f3eccc7.png)
 
-![image](https://user-images.githubusercontent.com/94079321/144087630-1ae21a0e-37bd-49e8-ae34-468694fbe5a9.png)
-
 3) Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68
 
 ![image](https://user-images.githubusercontent.com/94079321/143445415-0e6798de-c7db-4fd6-a373-1ceb903d2770.png)
 
-![image](https://user-images.githubusercontent.com/94079321/144087701-cdd44ce6-ddeb-435c-9fe5-67103f72432d.png)
-
 5) En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la cara posterior.
 
 ![image](https://user-images.githubusercontent.com/94079321/143445446-99531822-d11d-4bbe-a994-6fbcbc9ac354.png)
-
-![image](https://user-images.githubusercontent.com/94079321/144087773-28a44976-6d0c-4a86-b540-429e37d384d9.png)
 
 SECCIÓN 5–2 Corriente en un circuito en serie
 
@@ -46,11 +42,7 @@ SECCIÓN 5–2 Corriente en un circuito en serie
 
 ![image](https://user-images.githubusercontent.com/94079321/143445729-1c04e37b-bf00-4967-b1d1-73011af381f6.png)
 
-![image](https://user-images.githubusercontent.com/94079321/144087874-40210e65-0a87-4125-8884-bba0cd02bce7.png)
-
 9) Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de control. Trace el diagrama esquemático.
-
-![image](https://user-images.githubusercontent.com/94079321/144087939-135011b3-99eb-4249-b857-08fff36ffc87.png)
 
 SECCIÓN 5–3 Resistencia total en serie
 
@@ -61,23 +53,17 @@ SECCIÓN 5–3 Resistencia total en serie
             (c) 1.5 kΩ, 2.2 kΩ y 10 kΩ
             (d) 1.0 MΩ, 470 kΩ, 1.0 kΩ , 2.2 MΩ
             
-     ![image](https://user-images.githubusercontent.com/94079321/144087979-cc2f71cb-c628-4183-b5a1-0f792e38eb15.png)
+            
 
 13) ¿Cuál es la resistencia total de doce resistores de 5.6 kΩ dispuestos en serie?
-
-![image](https://user-images.githubusercontent.com/94079321/144088062-fb4818aa-4396-43d9-8e9e-d4241ddfe395.png)
 
 15) Si en la figura 5-72 la resistencia total es de 17.4 kΩ, ¿cuál es el valor de R5?
 
 ![image](https://user-images.githubusercontent.com/94079321/143446084-b0da5341-ee58-46a3-9b15-27243f41f4aa.png)
 
-![image](https://user-images.githubusercontent.com/94079321/144088116-7cbf6236-c366-43a3-b164-57e356fe66ec.png)
-
 17) En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie
 
 ![image](https://user-images.githubusercontent.com/94079321/143446123-b4e29bb0-9f18-4628-af01-825a1c160fd7.png)
-
-![image](https://user-images.githubusercontent.com/94079321/144088160-78a13a42-d0db-47ba-ab90-0be51ab0efd1.png)
 
 SECCIÓN 5–4 Aplicación de la ley de Ohm
 
@@ -85,22 +71,18 @@ SECCIÓN 5–4 Aplicación de la ley de Ohm
 
 ![image](https://user-images.githubusercontent.com/94079321/143446416-1e21077c-a1f0-4dc1-81a4-8530b2f52c9a.png)
 
-![image](https://user-images.githubusercontent.com/94079321/144088197-fab73d73-bee9-4326-8d78-e96cbe1064ce.png)
-
 21) Se conectan tres resistores de 470 Ω en serie con una fuente de 48 V
 
          (a) ¿Cuál es la corriente en el circuito?
          (b) ¿Cuál es el voltaje a través de cada resistor?
          (c) ¿Cuál es el valor nominal de potencia de los resistores?
 
-
-![image](https://user-images.githubusercontent.com/94079321/144088245-69a6a3de-4d29-451c-8219-1d9110066180.png)
-
-![image](https://user-images.githubusercontent.com/94079321/144088278-26ea08d0-0b14-49d9-b407-a992a990cf06.png)
-
 23) ¿Cuál es el valor de cada resistor mostrado en la figura 5-75?
 
 ![image](https://user-images.githubusercontent.com/94079321/143446447-9fd7d3e1-f796-446b-8192-6f8f10b80bde.png)
+
+![image](https://user-images.githubusercontent.com/94079321/144092149-7cb04d9f-6e42-4d63-8909-092bdad21146.png)
+
 
 25) En el circuito de la figura 5-77, el medidor lee 7.84 mA cuando el interruptor está en la posición A.
 
@@ -110,41 +92,69 @@ SECCIÓN 5–4 Aplicación de la ley de Ohm
           (b) ¿Cuál deberá ser la lectura del medidor en las posiciones B, C y D del interruptor?
           (c) ¿Se fundirá un fusible de 1⁄4 A en cualquier posición del interruptor?
           
+ ![image](https://user-images.githubusercontent.com/94079321/144092256-fdad61d6-3144-4cfa-ad14-838071985bfa.png)
+         
+          
 SECCIÓN 5–5 Fuentes de voltaje en serie
 
 27) Ayuda en serie es un término utilizado en ocasiones para describir fuentes de voltaje de la misma polaridad en serie. Si una fuente de 5 V y otra de 9 V están conectadas de esta manera, ¿cuál es el voltaje total?
+
+![image](https://user-images.githubusercontent.com/94079321/144092574-65c83114-c116-4b14-b467-580c3b6661a2.png)
 
 29) Determine el voltaje de fuente total en cada circuito de la figura 5-79.
 
 ![image](https://user-images.githubusercontent.com/94079321/143446933-c5dfbf81-eadb-43fb-b823-b5446d715936.png)
 
+![image](https://user-images.githubusercontent.com/94079321/144092634-bb0d002c-5921-4d67-b3e1-6125ae252574.png)
+
+
 SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 
 31) Cinco resistores están dispuestos en serie con una fuente de 20 V. Las caídas de voltaje a través de cuatro de los resistores son: 1.5 V, 5.5 V, 3 V, y 6 V. ¿Cuál es la caída de voltaje en el quinto resistor?
+
+![image](https://user-images.githubusercontent.com/94079321/144092779-afab9007-e45b-4df8-9130-c5589d3bc286.png)
+
 
 33) En el circuito de la figura 5-81, determine la resistencia de R4.
 
 ![image](https://user-images.githubusercontent.com/94079321/143447116-ed7c2fdf-ce0b-4e80-aa67-bdc1d90c4489.png)
 
+![image](https://user-images.githubusercontent.com/94079321/144092835-52a7b7a0-7da5-49c6-8ee2-4b595e2c51a7.png)
+
+
 35) Determine el voltaje a través de R5 para cada una de las posiciones del interruptor de la figura 5-83. La corriente en cada posición es como sigue: A, 3.35 mA; B, 3.73 mA; C, 4.50 mA; D, 6.00 mA.
 
 ![image](https://user-images.githubusercontent.com/94079321/143447304-27113a57-1883-4de9-9508-c6d1340d1e2c.png)
+
+![image](https://user-images.githubusercontent.com/94079321/144092891-360b461e-3cb4-4b0a-b4f1-c6454697a75b.png)
+
 
 SECCIÓN 5–7 Divisores de voltaje
 
 37) . La resistencia total de un circuito es de 560 Ω. ¿Qué porcentaje del voltaje total aparece a través de un resistor de 27 Ω que forma parte de la resistencia total en serie?
 
+![image](https://user-images.githubusercontent.com/94079321/144092957-86cf05f1-481e-42bc-9f68-e049492e1148.png)
+
 39) Determine el voltaje con respecto a tierra para las salidas A, B y C en la figura 5-85(a).
 
 ![image](https://user-images.githubusercontent.com/94079321/143447985-32abe026-d584-4e85-978e-07a7b2b3d3db.png)
+
+![image](https://user-images.githubusercontent.com/94079321/144093156-030a91f7-6977-476d-b955-2260fdb6272c.png)
+
 
 41) . ¿Cuál es el voltaje a través de cada resistor mostrado en la figura 5-86? R es el resistor de valor más bajo, y todos los demás resistores son múltiplos de dicho valor como se indica.
 
 ![image](https://user-images.githubusercontent.com/94079321/143448038-758953f2-8ee7-4f03-8680-1ae5cbddbaf2.png)
 
+![image](https://user-images.githubusercontent.com/94079321/144093198-53f61e9a-be92-43d5-8b21-e76c7137ac30.png)
+
+
 43) Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?
 
 ![image](https://user-images.githubusercontent.com/94079321/143448091-c123dcd5-15c6-4d71-b561-d683978c5d4d.png)
+
+![image](https://user-images.githubusercontent.com/94079321/144093249-c7b156d5-129d-4cc7-ac50-0c8cb33dcadd.png)
+
 
 45) Diseñe un divisor de voltaje variable para producir un voltaje de salida ajustable desde un mínimo de 10 V hasta un máximo de 100 V dentro del (+-)1% con una fuente de 1 a 120 V. El voltaje máximo debe ocurrir en el ajuste de resistencia máxima del potenciómetro, y el voltaje mínimo debe ocurrir en el ajuste de resistencia mínima (cero). La corriente tiene que ser de 10 mA.
 
@@ -205,9 +215,17 @@ SECCIÓN 6–1 Resistores en paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/143463301-ba117f9e-4ad4-49ad-95da-93299368adf3.png)
 
+![image](https://user-images.githubusercontent.com/94079321/144095533-7b201c5a-e838-46f0-aaa0-726aea67f0ea.png)
+
+
 3) Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
 
 ![image](https://user-images.githubusercontent.com/94079321/143463352-8aec3a1e-39c6-4dd3-82ef-f9a9bb55fc89.png)
+
+![image](https://user-images.githubusercontent.com/94079321/144095667-57829148-301d-42cc-8eab-ce9b34ca1c6a.png)
+
+![image](https://user-images.githubusercontent.com/94079321/144095705-4fbdbf85-48b7-4b28-b0f1-d6e5e586c887.png)
+
 
 SECCIÓN 6–2 Voltaje en un circuito en paralelo
 
@@ -215,19 +233,34 @@ SECCIÓN 6–2 Voltaje en un circuito en paralelo
 
 ![image](https://user-images.githubusercontent.com/94079321/143463391-a318381e-0966-4d05-b923-8b872b3bfbb2.png)
 
+![image](https://user-images.githubusercontent.com/94079321/144095777-70e561fd-2435-47a1-9224-15071fdc2232.png)
+
+
 7) ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del interruptor?
 
 ![image](https://user-images.githubusercontent.com/94079321/143463435-b5906817-6e2d-499e-bca9-0483a0ff1810.png)
+
+![image](https://user-images.githubusercontent.com/94079321/144095844-77578642-4f98-468e-93c2-5a3ea7840fe7.png)
+
 
 SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
 
 9) Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
 
+![image](https://user-images.githubusercontent.com/94079321/144095910-ec6dc93d-f5a7-4ce8-b4ed-e13dbb1a8fae.png)
+
+
 11) En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4.
 
 ![image](https://user-images.githubusercontent.com/94079321/143466123-cbdc09c7-d8ac-4bfb-9f63-e7ebc6b63d0e.png)
 
+![image](https://user-images.githubusercontent.com/94079321/144095985-e293cc80-4094-4b72-9307-a4453b4db39e.png)
+
+
 13) . La resistencia total de un circuito en paralelo es de 25 Ω. ¿Cuál es la corriente a través de un resistor de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?
+
+![image](https://user-images.githubusercontent.com/94079321/144101737-b9b54a69-61a8-47eb-a14f-9f9a98bd3757.png)
+
 
 15) Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:
 
@@ -236,8 +269,14 @@ SECCIÓN 6–3 Ley de las corrientes de Kirchhoff
          (c) 1.5 kΩ, 2.2 kΩ y 10 kΩ
          (d) 1 MΩ, 470 kΩ, 1 kΩ y 2.7 MΩ
 
-17) ¿Cuál es la resistencia total de doce resistores de 6.8 kΩ dispuestos en paralelo?
+![image](https://user-images.githubusercontent.com/94079321/144101991-2e923d57-f97e-40f2-8966-1e4b68da9b87.png)
 
+
+17) ¿Cuál es la resistencia total de doce resistores de 6.8 kΩ dispuestos en paralelo?
+ 
+![image](https://user-images.githubusercontent.com/94079321/144102862-b7e92907-1544-4d34-8a99-2a8fd4002c4e.png)
+ 
+ 
 19) Tres grupos, uno de cinco resistores de 470 Ω, otro de diez resistores de 100 Ω, y uno más de dos resistores de 100 Ω están conectados en paralelo.  Encuentre la resistencia total de todo el circuito en paralelo.
 
 21) ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?
@@ -284,40 +323,27 @@ SECCIÓN 6–7 Divisores de corriente
          (a) ¿Qué valor de resistencia en derivación se requiere para utilizar un medidor de 50 mV en una aplicación de medición de 50 A?
          (b) ¿Cuánta corriente circula por el medidor?
 
-
-![image](https://user-images.githubusercontent.com/94079321/144071064-d1b9cd9a-1ec8-4cf6-bd97-5935bdb277c5.png)
-
 SECCIÓN 6–8 Potencia en circuitos en paralelo
 
 39) Determine la potencia total en cada uno de los circuitos de la figura 6-81.
 
 ![image](https://user-images.githubusercontent.com/94079321/143468926-364432b9-8e47-40a5-8090-0616a5293d8a.png)
 
-![image](https://user-images.githubusercontent.com/94079321/144071103-35f1ee02-cdd2-48f9-af4c-908062a56a2e.png)
-
 41) Encuentre los valores de las cantidades no especificadas en la figura 6-84
 
 ![image](https://user-images.githubusercontent.com/94079321/143469024-addcb843-b29c-45dd-aaf4-b60858350a0f.png)
-
-![image](https://user-images.githubusercontent.com/94079321/144071160-8ad15479-5d47-4574-81b3-35ec29e15871.png)
 
 SECCIÓN 6–10 Localización de fallas
 
 43) Si en el problema 40 se funde uno de los focos, ¿cuánta corriente circulará a través de cada foco restante? ¿Cuál será la corriente total?
 
-![image](https://user-images.githubusercontent.com/94079321/144071213-49cf3678-69ce-4735-a228-12cd8f112526.png)
-
 45) ¿Qué está mal con el circuito de la figura 6-86?
 
 ![image](https://user-images.githubusercontent.com/94079321/143469060-577b8aee-b544-474c-bc3e-b892662a11e9.png)
 
-![image](https://user-images.githubusercontent.com/94079321/144071253-09da56b0-fde4-407a-8672-3952d3735a2a.png)
-
 47) Desarrolle un procedimiento de prueba para revisar la tarjeta de circuito mostrada en la figura 6-87 y asegurarse de que no hay componentes abiertos. Debe realizar esta prueba sin quitar el componente de la tarjeta. Describa el procedimiento en un formato detallado paso a paso. 
 
 ![image](https://user-images.githubusercontent.com/94079321/143469099-0995769f-dba3-4941-8b7c-1eb0c260cdd2.png)
-
-![image](https://user-images.githubusercontent.com/94079321/144071289-d1a60848-0ac4-4408-a45a-a16eaf45df30.png)
 
 49) Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:
 
@@ -325,35 +351,12 @@ SECCIÓN 6–10 Localización de fallas
 
             (a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4
 
-
-![image](https://user-images.githubusercontent.com/94079321/144071334-2c6e7969-53b4-4156-b9ff-f1afff74cda0.png)
-
 61. Conclusiones
-
-La corriente es la misma en todos los puntos de un circuito en serie
-
-La resistencia total en serie es la suma de todos los resistores presentes en el circuito en serie.
-
-Si todos los resistores presentes en un circuito en serie son de igual valor, la resistencia total es la cantidad de resistores multiplicada por el valor de resistencia de un resistor
-
-Los resistores en paralelo se conectan entre dos puntos (nodos)
-
-Una combinación en paralelo tiene más de una trayectoria para la corriente
-
-Un circuito en paralelo es un divisor de corriente, llamado así porque la corriente total que entra a la unión de ramas en paralelo se divide en cada una de las ramas.
 
 5. Bibliografía
 
--Unsa.edu.ar. 2021. [online] Available at: http://www.unsa.edu.ar/srmrf/web/_Visitante/articulacion/MePreparo2011/3_NotacionCientifica.pdf [Accessed 1 June 2021]. Yann Picand, D., 2021. Conversión de unidades : definición de Conversión de unidades y sinónimos de Conversión de unidades (español). [online] Diccionario.sensagent.com.
--Available at: http://diccionario.sensagent.com/Conversi%C3%B3n%20de%20unidades/es-es/ [Accessed 03 Noviembre 2021].
-
--2021. [online] Available at: https://es.khanacademy.org/science/electrical-engineering/int [Accessed 03 Noviembre 2021].
-
--Tirado, A. and perfil, V., 2021. conversión de unidades. [online] Aprendefisika.blogspot.com. Available at: http://aprendefisika.blogspot.com/p/conversion-de-unidades.html [Accessed 05 Noviembre 2021].
-
 6. Video
 
-https://youtu.be/uDeVqNhE0SU
 
 
 
